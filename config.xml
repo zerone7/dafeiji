@@ -1,0 +1,9 @@
+<config>
+    <user>
+        <name>zerone7</name>
+    </user>
+    <system>
+        <ip>127.0.0.1</ip>
+        <port>8124</port>
+    </system>
+</config>

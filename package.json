@@ -1,0 +1,10 @@
+{
+  "name": "打飞机",
+  "main": "index.html",  
+  "window": {
+    "icon": "app.ico",
+    "width" : 480,
+    "height" : 850,
+    "toolbar"	: false
+  }
+}
